@@ -43,6 +43,12 @@ Ce référentiel contient divers projets réalisés avec Next.js, présentés su
 
 13. **Image Components**
     - Utilisation des composants d'image dans Next.js.
+  
+14. **Clerk et Prisma**
+    - Intégration de Clerk , Prisma et Next.js.
+
+15. **Kinde Auth**
+    - Authentification avec Kinde et Next JS
 
 
 ## Utilisation
